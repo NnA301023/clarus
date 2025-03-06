@@ -1,6 +1,6 @@
-# 🤖 Flask RAG Application
-
 <div align="center">
+
+# 🤖 Clarus (ExaBytes RAG Demo Application)
 
 ![Python](https://img.shields.io/badge/python-v3.11+-blue.svg)
 ![Flask](https://img.shields.io/badge/flask-v3.0.0-lightgrey.svg)
